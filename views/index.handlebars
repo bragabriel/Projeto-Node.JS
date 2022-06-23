@@ -1,0 +1,27 @@
+<div class="jumbotron">
+  <h1 class="display-4">Bem-Vindo ao Blog do Node.JS</h1>
+  <p class="lead">Blog de registro de postagens, utilizando Node.JS</p>
+  <hr class="my-4">
+  <p>Neste blog foi utilizado Node.JS, e seus módulos: Express; Mongoose; Handlebars; Body-Parser; Middleware e Sessions</p>
+  <p>Também utilizei o banco de dados MongoDB e a biblioteca de CSS 'Bootstrap'.</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Crie uma conta</a>
+</div>
+
+<hr>
+
+<h2>Postagens recentes</h2>
+
+{{#each postagens}}
+<div class="card mt-4">
+    <div class="card-body">
+        <h3>{{titulo}}</h3>
+        <p>{{descricao}}</p>
+        <a href="/postagem/{{slug}}"><button class="btn btn-info">Leia mais</button></a>
+        <hr>
+        <small>Categoria: {{categoria.nome}}</small>
+        <small>Data de publicação: {{data}}</small>
+    </div>
+</div>
+{{else}}
+    <h5>Nenhuma postagem</h5>
+{{/each}}
