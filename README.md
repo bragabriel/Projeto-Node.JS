@@ -7,6 +7,25 @@
 
 ### O sistema realiza o cadastro de Postagens, que são separadas por categorias. <br><br> É possível realizar o cadastro de postagens e de categorias, bem como o cadastro de usuários. <br><br> No sistema existe o controle de acesso, através das sessions e middlewares, com isso apenas o usuário ADM consegue editar, adicionar ou excluir categorias.<br><br>
 
+#### Home page:
+<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/home.png" width="800px"> <br>
+
+#### Lista de categorias:
+<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/categorias.png" width="800px"> <br>
+
+#### Lista de categorias com acesso de ADM:
+<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/categorias-admin.png" width="800px"> <br>
+
+#### Cadastro de postagem:
+<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/cadastro-postagem.png" width="800px"> <br>
+
+#### Lista de postagem com acesso de ADM:
+<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/postagem-admin.png" width="800px"> <br>
+
+#### Usuário cadastrado com sucesso:
+<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/criando-usuario.png
+" width="800px"> <br>
+
 #### Foi utilizado:
 * Conceitos Node.JS:
     * Express;
