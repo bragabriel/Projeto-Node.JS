@@ -23,10 +23,11 @@
 <img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/postagens-admin.png" width="800px"> <br>
 
 #### Usuário cadastrado com sucesso:
-<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/criando-usuario.png" width="800px"> <br>
+<img src="https://github.com/bragabriel/Projeto-Node.JS/blob/main/img-config-readme/criando-usuario.png" width="800px"> <br><br>
 
-#### Foi utilizado:
-* Conceitos Node.JS:
+### Neste projeto, foram utilizados os seguintes conceitos:
+
+* Conceitos em Node.JS:
     * Express;
     * Mongoose;
     * Handlebars;
@@ -61,4 +62,4 @@
 
 <br>
 
-Link para o repositório completo [aqui](https://github.com/bragabriel/NodeJS/tree/main/Curso-NodeJS)
+Caso queira ver o repositório completo, [clique aqui](https://github.com/bragabriel/NodeJS/tree/main/Curso-NodeJS).
